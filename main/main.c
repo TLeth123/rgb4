@@ -18,7 +18,7 @@
 #include "../components/lvgl__lvgl/demos/benchmark/lv_demo_benchmark.h"
 #include "../components/lvgl__lvgl/demos/widgets/lv_demo_widgets.h"
 
-// static const char *TAG = "app_main";
+static const char *TAG = "app_main";
 
 void lvgl_driver_init() // 初始化液晶驱动
 {
